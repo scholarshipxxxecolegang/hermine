@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120785229119",
+    "project_id": "hermine-d1c9f",
+    "storage_bucket": "hermine-d1c9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120785229119:android:da8e002ee04458b8a06f8a",
+        "android_client_info": {
+          "package_name": "com.hermine.hermin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdB79uf2CzF1QAATUXkf0vWFlFkDSuwWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120785229119:android:19b804675dc88f1ca06f8a",
+        "android_client_info": {
+          "package_name": "com.hermine.hermine_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdB79uf2CzF1QAATUXkf0vWFlFkDSuwWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
